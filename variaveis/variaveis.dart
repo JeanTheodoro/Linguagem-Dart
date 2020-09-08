@@ -1,6 +1,6 @@
 void main() {
   var inteiro = 10;
-  int interos = 20;
+  int inte = 20;
   double decimal = 1.5;
   String word = "Hello World";
   bool booleano = false;
